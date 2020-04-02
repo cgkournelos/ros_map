@@ -705,3 +705,8 @@
   type: school
   lat: 45.523715
   long: 9.219541
+- name: Laboratory for Manufcturing Systems and Automation (LMS)
+  link: http://lms.mech.upatras.gr/
+  type: research institute
+  lat: 38.2888637
+  long: 21.7858625
